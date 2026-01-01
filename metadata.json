@@ -1,0 +1,8 @@
+{
+  "name": "Copy of CampusClear",
+  "description": "An Agentic AI-powered platform for students. Features a Live Multimodal Coach, Autonomous Job Agents, and Institutional Analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
